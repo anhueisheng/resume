@@ -1,7 +1,8 @@
 ###渗透kali liux
 
+You can use the [editor on GitHub](https://github.com/anhueisheng/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-kali liux 是个操作系统，它提供了很多的渗透的工具
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 技术要求
 
